@@ -12,15 +12,15 @@ const ReactCarousel = () => {
         infiniteLoop={true}
         showStatus={false}
       >
-        <img src="../src/assets/carouselimg/1.png" />
+        <img src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931623/8_bpkuf4.png" />
 
-        <img src="../src/assets/carouselimg/2.jpg" />
-        <img src="../src/assets/carouselimg/3.png" />
-        <img src="../src/assets/carouselimg/4.jpg" />
-        <img src="../src/assets/carouselimg/5.jpg" />
-        <img src="../src/assets/carouselimg/6.png" />
-        <img src="../src/assets/carouselimg/7.png" />
-        <img src="../src/assets/carouselimg/8.png" />
+        <img src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931619/6_cvzbgn.png" />
+        <img src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931620/7_sd8u5b.png" />
+        <img src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931619/3_ji3ctw.png" />
+        <img src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931619/5_pgkgby.jpg" />
+        <img src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931619/2_vbk5ox.jpg" />
+        <img src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931619/2_vbk5ox.jpg" />
+        <img src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931618/4_b1pppk.jpg" />
       </Carousel>
     </div>
   );

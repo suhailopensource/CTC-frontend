@@ -4,7 +4,10 @@ const BlogCard = () => {
   return (
     <>
       <div class="flex relative w-[350px] blackieee  flex-col justify-center items-center rounded-[15px] md:mx-5 mb-10">
-        <img class="relative rounded-t-[15px]" src="../src/assets/ghfrhu.png" />
+        <img
+          class="relative rounded-t-[15px]"
+          src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931010/ghfrhu_mirxz3.png"
+        />
         <div class="text-white p-5">
           <div class="text-2xl font-bold my-2">Elasticsearch- II</div>
           <div class="my-2">

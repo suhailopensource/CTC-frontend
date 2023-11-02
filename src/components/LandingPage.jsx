@@ -1,6 +1,5 @@
 import React from "react";
 import "../../src/index.css";
-import Navbar from "./Navbar";
 
 const LandingPage = () => {
   return (
@@ -11,7 +10,7 @@ const LandingPage = () => {
             <div>
               <img
                 className="h-60 mx-auto"
-                src="../src/assets/Untitled-removebg-preview-removebg-preview.png"
+                src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931012/Untitled-removebg-preview-removebg-preview_o9x1qj.png"
               />
             </div>
             <div>
@@ -42,7 +41,7 @@ const LandingPage = () => {
               </div>
             </div>
             <img
-              src="../src/assets/arrowwpng-removebg-preview.png"
+              src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698930957/arrowwpng-removebg-preview_osmtru.png"
               className="absolute h-40 w-40 top-[-79px] left-[-85px]"
               alt="lol"
             />
@@ -73,20 +72,20 @@ const LandingPage = () => {
       </section>
       <img
         className="absolute bottom-0 left-0 z-[-9999] responsive_img"
-        src="../src/assets/hefgru.png"
+        src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/hefgru_fvgoaw.png"
       />
       <img
         className="absolute bottom-0 right-0 z-[-9999] responsive_img"
-        src="../src/assets/lol-removebg-preview.png"
+        src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/lol-removebg-preview_o9orzd.png"
       />
       <img
         className="absolute bottom-[-28rem] right-0 z-[-9999]"
-        src="../src/assets/egwrghd-removebg-preview.png"
+        src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931009/egwrghd-removebg-preview_tgdy9k.png"
         alt="lol"
       />
       <img
         className="absolute bottom-[-61rem] left-0 z-[-1]"
-        src="../src/assets/hefgru.png"
+        src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/hefgru_fvgoaw.png"
       />
     </>
   );

@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-5">
         <a href="#" className="flex items-center">
           <img
-            src="../src/assets/Untid.jpg"
+            src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/Untid_l8bpqr.jpg"
             className="h-14 w-14 mr-3"
             alt="CTC Logo"
           />

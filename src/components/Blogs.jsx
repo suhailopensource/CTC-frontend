@@ -8,7 +8,7 @@ const Blogs = () => {
       <section class="relative bg-black w-screen h-[400px] flex justify-center items-center">
         <img
           class="absolute right_image left-0 w-[37rem]"
-          src="../src/assets/circuit-board-pattern-technology-white-background-oikjhgvector-36687060.png"
+          src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931009/circuit-board-pattern-technology-white-background-oikjhgvector-36687060_vuepqj.png"
         />
 
         <divc class="text-center text-5xl font-bold bluish">
@@ -17,7 +17,7 @@ const Blogs = () => {
         </divc>
         <img
           class="absolute left_image right-0 w-[32rem]"
-          src="../src/assets/Untitled-removebg-preview.png"
+          src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/Untitled-removebg-preview_lsk0zk.png"
         />
       </section>
 

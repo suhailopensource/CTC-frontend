@@ -28,7 +28,10 @@ const Team = () => {
           <div className="flex justify-center items-center landscape_card hidden">
             <div className="w-[75%]  blackie">
               <div className="flex ">
-                <img className="w-2/5 h-[500px]" src="../src/assets/HOD.png" />
+                <img
+                  className="w-2/5 h-[500px]"
+                  src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/HOD_pg2jua.png"
+                />
                 <div className="w-3/5 flex items-center justify-center relative">
                   <div className="text-white p-5">
                     <div className="mb-5 font-bold text-3xl ">
@@ -50,7 +53,10 @@ const Team = () => {
           <div className="flex justify-center items-center portrait_card hidden">
             <div className=" blackie w-[400px]">
               <div className="flex flex-col ">
-                <img className="w-full h-[400px]" src="../src/assets/HOD.png" />
+                <img
+                  className="w-full h-[400px]"
+                  src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/HOD_pg2jua.png"
+                />
                 <div className="w-full flex items-center justify-center ">
                   <div className="text-white p-5 text-center">
                     <div className="mb-5 font-bold text-3xl ">
@@ -73,17 +79,17 @@ const Team = () => {
         </div>
         <img
           className="absolute left-0 bottom-0 z-[-1] "
-          src="../src/assets/hefgru.png"
+          src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/hefgru_fvgoaw.png"
         />
       </section>
       <Members />
       <img
         class="absolute left-0 bottom-0 responsive_img"
-        src="../src/assets/hefgru.png"
+        src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/hefgru_fvgoaw.png"
       />
       <img
         class="absolute right-0 bottom-0 responsive_img"
-        src="../src/assets/lol-removebg-preview.png"
+        src="https://res.cloudinary.com/djbqutkuf/image/upload/v1698931011/lol-removebg-preview_o9orzd.png"
       />
     </>
   );
