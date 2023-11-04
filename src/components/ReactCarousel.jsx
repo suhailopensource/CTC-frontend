@@ -8,7 +8,6 @@ const ReactCarousel = () => {
       <Carousel
         autoPlay={true}
         showThumbs={false}
-        swipeable={true}
         infiniteLoop={true}
         showStatus={false}
       >
